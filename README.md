@@ -36,13 +36,6 @@
 
   <br/><br/>
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=itanramirez&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itanramirez&layout=compact&theme=gotham&hide_border=true&langs_count=6" height="150" />
-  </div>
-
-  <br/><br/>
-
   <h3>🚧 Currently Working On</h3>
   <table>
     <tr>
