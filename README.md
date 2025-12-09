@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=500&lines=Oracle+ONE+Alumni+%7C+Java+Ecosystem;Samsung+Innovation+Campus+%7C+AI;Computer+Science+Major+%40+CUTonal%C3%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=500&lines=Oracle+ONE+Alumno;Samsung+Innovation+Campus+%7C+AI;Computer+Science+%40+CUTonala%C3%A1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,61 +32,15 @@
 
 <br/>
 
-<h3 align="center">🏆 Professional Affiliations</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Oracle-ONE_Education-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Samsung-Innovation_Campus-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[ItanRamirezMiramontes]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ItanRamirezMiramonte]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_GITHUB]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<h3 align="center">⚡ Engineering Roadmap</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td width="500px" align="center">
-        <b>🚀 Active Development:</b><br>
-        <i>Enterprise Sentiment Analysis System</i><br>
-        <br>
-        Integrating <code>Spring Boot Microservices</code> with <code>NLP Transformers</code>.<br>
-        Deployed on <b>Oracle Cloud Free Tier</b>.
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-<h3 align="center">📈 Engineering Metrics</h3>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" height="180" alt="Itan's GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_GITHUB]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" height="180" alt="Itan's Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_GITHUB]&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="[TU_URL_LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/itan-gabriel-ramirez-miramontes-05594536a/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
