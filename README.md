@@ -30,15 +30,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ItanRamirezMiramontes]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ItanRamirezMiramonte]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/itan-gabriel-ramirez-miramontes-05594536a/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
